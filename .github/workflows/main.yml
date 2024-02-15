@@ -22,4 +22,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          MY_TOKEN: ${{ secrets.1 }}
+          MY_TOKEN: ${{ secrets.MY_TOKEN }}
