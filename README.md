@@ -5,8 +5,7 @@
 - Engineering at the University Tiradentes - UNIT.
 - Passionate about programming, machine learning, data science and robotics.
 
-<! --
-**fabiocarvalhosimoes/Fabio-C-Simoes** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
+<! --**fabiocarvalhosimoes/Fabio-C-Simoes** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.-->
 
 ### Languages e Tools 💻 
 
@@ -49,4 +48,4 @@ Aqui estão algumas idéias para você começar:
 </div>
 
 ![Snake animation](https://github.com/fabiocarvalhosimoes/fabiocarvalhosimoes/blob/output/github-contribution-grid-snake.svg)
--->
+
