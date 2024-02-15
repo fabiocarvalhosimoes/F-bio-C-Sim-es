@@ -36,8 +36,8 @@
   </a>
 </div>
 
+![Snake animation](https://raw.githubusercontent.com/fabiocarvalhosimoes/fabiocarvalhosimoes/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/fabiocarvalhosimoes/fabiocarvalhosimoes/blob/output/github-contribution-grid-snake.svg)
 
 
 
