@@ -17,10 +17,14 @@ jobs:
           github_user_name: fabiocarvalhosimoes
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v2.2.0
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
+          allow_empty_commit: true
+          jekyll: true
         env:
-          MY_TOKEN: ${{ secrets.MY_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
