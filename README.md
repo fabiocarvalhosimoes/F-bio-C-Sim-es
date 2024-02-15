@@ -37,6 +37,7 @@
 </div>
 
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/fabiocarvalhosimoes/fabiocarvalhosimoes/blob/output/github-contribution-grid-snake.svg)
+
 
 
