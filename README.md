@@ -1,10 +1,12 @@
+<div align="center">
+  <h1>👋 Welcome to my Github profile</h1>
+</div>
+
 # ✨ Hi there, I'm Fábio! ✨
 
 
-## 👋 Welcome to my Github profile.
-
-
-- Studying Engineering at Tiradentes University - UNIT.
+- Mechatronics Engineering at Tiradentes University - UNIT.
+- Postgraduate in Mathematics, its technologies and the world of work - UFPI
 - Passionate about programming, machine learning, data science, and robotics.
 
 <!-- **fabiocarvalhosimoes/Fabio-C-Simoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
